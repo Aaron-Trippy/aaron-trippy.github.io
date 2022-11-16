@@ -1,0 +1,16 @@
+{
+    "person": {
+        "firstName": "Aaron",
+        "lastName": "Tripp"
+        },
+    "work": {
+        "job": "faculty",
+        "program": "Digital Design and Development Diploma",
+        "url": "https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/?gclid=Cj0KCQiAsdKbBhDHARIsANJ6-jeXDGhIO6bgLk7d6EzWYsAKCsvKVFKc0plLy4VifldOyNfPyCTH3U0aAvvCEALw_wcB&gclsrc=aw.ds"
+        },
+    "study": {
+        "job": "faculty",
+        "programs": "Digital Design and Development Diploma",
+        "department": "school of Computing & Information Technology"
+        }
+}
